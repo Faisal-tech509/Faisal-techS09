@@ -1,9 +1,15 @@
-# 👋 Hi, I'm Muhammad Faisal  
-**Junior Web Developer | IT Executive**  
-📍 Karachi, Pakistan  
-📧 lasharif95@gmail.com  
+# Hi, I'm Muhammad Faisal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
----
+🚀 **Junior Web Developer | IT Executive** | **Data Analyst**
+I’m a results-driven professional with expertise in **compliance, control, and process automation**, experienced in **Oracle ERP systems** and expanding my skills in **front-end development** to bridge business operations with technology.
+
+🌍 Based in Karachi, Pakistan (open to relocation) 
+📱 +92 303 2280605
+📧 [Email](mailto:lashari@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-faisal-b3b506220/)
+🖥️ [GitHub](https://github.com/Faisal-tech509/Faisal-techS09)  
+
+--
 
 ## 🧑‍💻 About Me  
 As a junior web developer and fresh software engineer, I specialize in web design, front-end development, and building dynamic applications. Passionate about coding, innovation, and continuous learning.
@@ -38,6 +44,14 @@ As a junior web developer and fresh software engineer, I specialize in web desig
 - Generate database queries, create reports for decision-making, and prepare technical documentation and SOPs.
 ---
 
+**Customer Service and Sales Representative** – *US-Based Company*  
+*Oct 2022 – Aug 2023*  
+- Customer service and sales.
+- Respond promptly to customer inquiries via live calls.
+- Maintain a deep understanding of our products to effectively assist customers.
+- Achieve monthly sales target
+- Offer discounts to repeated clients to retain them.
+
 ## 🚀 Mini Projects  
 
 ### 🧢 [Nike Shoes Website](#)
@@ -54,16 +68,13 @@ As a junior web developer and fresh software engineer, I specialize in web desig
 ## 🛠️ Skills  
 `HTML` `CSS` `JavaScript`  
 `Functional Consultant` `Microsoft Office`
-
 ---
-
 ## 🌱 Interests  
 - Technology  
 - Web Development  
 - Software Engineering  
-
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YourUsername)
+[![LinkedIn] [linkedin.com/in/muhammad-faisal-b3b506220  ](https://www.linkedin.com/in/muhammad-faisal-b3b506220/overlay/contact-info/)
+[![GitHub] https://github.com/Faisal-tech509/Faisal-techS09

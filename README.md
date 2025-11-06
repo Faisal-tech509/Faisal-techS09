@@ -60,15 +60,20 @@ As a junior web developer and fresh software engineer, I specialize in web desig
 --
 
 
-## 🚀 Mini Projects  
-
-### 🧢 [Nike Shoes Website](#)
+## 🚀 Portfolio
+📝 [Topic Listing Website](https://inquisitive-bonbon-f6d531.netlify.app/)  
 *Front-end project built with HTML, CSS, and JavaScript.*  
 
-### 🔐 [Login Page Design](#)
-*A responsive login page with CSS animations and form validation.*  
+🧢 [Nike Shoes Website](https://chipper-daffodil-6f103d.netlify.app/)  
+*Front-end project built with HTML, CSS, and JavaScript.*  
 
-### 🎵 [Spotify Clone](#)
+🔐 [Login Page Design](https://app.netlify.com/projects/joyful-centaur-03516b/overview)  
+*A responsive login page with CSS animations and form validation.* 
+
+🔐 [Login Trasparent Page Design](https://cheerful-frangollo-42ee85.netlify.app/)  
+*A responsive login page with CSS animations and form validation.* 
+
+🎵 [Spotify Clone](https://silver-gelato-d2d835.netlify.app/)  
 *A music player UI built using HTML, CSS, and JavaScript.*
 
 ---

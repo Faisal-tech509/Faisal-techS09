@@ -83,6 +83,7 @@ As a junior web developer and fresh software engineer, I specialize in web desig
 - Software Engineering  
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn]
-[![GitHub] 
+## 📫 Connect With Me 
+💼 [LinkedIn](https://pk.linkedin.com/in/muhammad-faisal-b3b506220/)
+
+🖥️ [GitHub](https://github.com/Faisal-tech509/Faisal-techS09) 

@@ -80,6 +80,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
+  
 | Category      | Tools                                                              |
 | ------------- | ------------------------------------------------------------------ |
 | 💻 Frontend   | HTML, CSS, JavaScript (ES6+)                                       |
@@ -87,6 +88,7 @@
 | 🎨 Styling    | CSS, Bootstrap                                                     |
 | ⚙️ Tools      | Git, GitHub, VS Code, Netlify,                                     |
 | 📊 Data       | Microsoft Office, Data Analysis, Reporting                         |
+
 </div>
 
   

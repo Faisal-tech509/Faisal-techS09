@@ -68,8 +68,7 @@
 <div align="center">
 
 | Project                               | Description                                                     | Live Demo                                                                           |
-| ------------------------------------- | -----------------------------------------------------------     | --------------------------------------------------------------- ------------------- |
-
+| ------------------------------------- | -----------------------------------------------------------     | ----------------------------------------------------------------------------------- |
 | 🌐 **Topic Listing Website**          | Front-end project built with HTML, CSS, and JavaScript.         | 🔗 [View Project](https://inquisitive-bonbon-f6d531.netlify.app/)                  | 
 | 🌐 **Food Website**          | Front-end project built with HTML, CSS, and JavaScript.                  | 🔗 [View Project](https://delicate-macaron-01809e.netlify.app/)                    | 
 | 🧢 **Nike Shoes Website**             | Front-end project built with HTML, CSS, and JavaScript.         | 🔗 [View Project](https://chipper-daffodil-6f103d.netlify.app/)                    |

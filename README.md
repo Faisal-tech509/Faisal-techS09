@@ -117,6 +117,8 @@
     <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" />
   </a>
 </p>
-<hr>
+
+---
+
 <p align="center">💻 “Code with passion, build with purpose.” ✨</p>
-<p align="center">💻 “Code with passion, build with purpose.” ✨</p>
+

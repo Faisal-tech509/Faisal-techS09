@@ -30,7 +30,6 @@
 **Intermediate in Computer Science** – South City Institute & Management College  
 **Matric in Science** – Al Abbas Secondary School  
 
----
 
 ## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28px"> Experience  
 
@@ -57,7 +56,6 @@
 - Maintain strong communication with buyers to ensure successful order delivery.
 - Report to HOD on daily tasks.
 
-
 **Customer Service and Sales Representative** – *US-Based Company*  
 *Oct 2022 – Aug 2023*  
 - Customer service and sales.
@@ -66,7 +64,7 @@
 - Achieve monthly sales target
 - Offer discounts to repeated clients to retain them.
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 <div align="center">
 
 | Project                               | Description                                                 | Live Demo                                                                                                |
@@ -82,7 +80,6 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-
 | Category      | Tools                                                              |
 | ------------- | ------------------------------------------------------------------ |
 | 💻 Frontend   | HTML, CSS, JavaScript (ES6+)                                       |
@@ -90,20 +87,22 @@
 | 🎨 Styling    | CSS, Bootstrap                                                     |
 | ⚙️ Tools      | Git, GitHub, VS Code, Netlify,                                     |
 | 📊 Data       | Microsoft Office, Data Analysis, Reporting                         |
-
 </div>
 
-    ## 🌱 Interests  
-    - Technology  
-    - Web Development  
-    - Software Engineering  
-    ---
+  
+## 🌱 **Interests**
+- Technology  
+- Web Development  
+- Software Engineering  
+- Front-end Development  
+- Process Automation  
+- Data Analysis & Reporting  
+- ERP Systems (Oracle)  
+- UI/UX Design  
+- Learning new frameworks & tools  
+- Problem Solving & Optimization
 
-
-
-
-    
-### 🌐 Connect With Me
+## 🌐**Connect With Me**
 
 <p align="center">
   <a href="https://pk.linkedin.com/in/muhammad-faisal-b3b506220/">

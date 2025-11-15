@@ -67,12 +67,12 @@
 ## 🚀 Featured Projects
 <div align="center">
 
-| Project                               | Description                                                 | Live Demo                                                                                                |
-| ------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 🌐 **Topic Listing Website**          | Front-end project built with HTML, CSS, and JavaScript.S.   | 🔗 [View Project](https://inquisitive-bonbon-f6d531.netlify.app/)                                       | 
-| 🌐 **Food Website**          | Front-end project built with HTML, CSS, and JavaScript.S.   | 🔗 [View Project](https://delicate-macaron-01809e.netlify.app/)                                       | 
-| 🧢 **Nike Shoes Website**             | Front-end project built with HTML, CSS, and JavaScript.     | 🔗 [View Project](https://chipper-daffodil-6f103d.netlify.app/)                                         |
-| 🔐 **Login Page Design**              |A responsive login page with CSS animations and form validation.| 🔗 [View Project](https://app.netlify.com/projects/joyful-centaur-03516b/overview)                   |
+| Project                               | Description                                                     | Live Demo                                                                                            |
+| ------------------------------------- | -----------------------------------------------------------     | ---------------------------------------------------------------------------------------------------- |
+| 🌐 **Topic Listing Website**          | Front-end project built with HTML, CSS, and JavaScript.         | 🔗 [View Project](https://inquisitive-bonbon-f6d531.netlify.app/)                                   | 
+| 🌐 **Food Website**          | Front-end project built with HTML, CSS, and JavaScript.                  | 🔗 [View Project](https://delicate-macaron-01809e.netlify.app/)                                     | 
+| 🧢 **Nike Shoes Website**             | Front-end project built with HTML, CSS, and JavaScript.         | 🔗 [View Project](https://chipper-daffodil-6f103d.netlify.app/)                                     |
+| 🔐 **Login Page Design**              |A responsive login page with CSS animations and form validation. | 🔗 [View Project](https://app.netlify.com/projects/joyful-centaur-03516b/overview)                  |
 | 🔐 **Login Trasparent Page Design**    |A responsive login page with CSS animations and form validation.| 🔗 [View Project](https://cheerful-frangollo-42ee85.netlify.app/)                                   |
 | 🎵 **Spotify App Clone** | A music player UI built using HTML, CSS, and JavaScript.                     | 🔗 [View Project](https://silver-gelato-d2d835.netlify.app/)                                        |
 
